@@ -1,0 +1,61 @@
+* {
+    color: #eae0d5;
+    font-family:sans-serif;
+}
+
+body {
+    width: 80%;
+    margin: auto;
+    background-color: #22333B;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+Header {
+
+    border: 5px solid #0a0908;
+    background-color: #022902;
+    margin-bottom: 10px;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+article {
+    border: 5px solid #0a0908;
+    background-color: #022902;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+footer {
+    border: 5px solid #0a0908;
+    background-color: #022902;
+    padding: 10px;
+    text-align: center;
+}
+
+.links {
+    text-align: center;
+    border: 5px solid #0a0908;
+    background-color: #022902;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+    
+}
+
+.chez article img {
+    max-width: 20%;
+    
+}
+
+ul li {
+    padding: 5px;
+}
+
+.lilbeepo article img {
+
+    max-width: 100%;
+}
