@@ -2,5 +2,5 @@
 null,
 {"id":1,"expanded":true,"name":"Home Base","order":1,"parentId":0,"scrollX":811,"scrollY":457.5},
 {"id":2,"expanded":false,"name":"Shop","order":2,"parentId":1,"scrollX":0,"scrollY":0,"quick":false},
-{"id":3,"expanded":false,"name":"Dungeon","order":3,"parentId":1,"scrollX":832,"scrollY":1040,"quick":false}
+{"id":3,"expanded":false,"name":"Dungeon","order":3,"parentId":1,"scrollX":1622,"scrollY":915,"quick":false}
 ]
